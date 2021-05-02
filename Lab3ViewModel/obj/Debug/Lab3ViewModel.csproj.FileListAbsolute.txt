@@ -1,0 +1,6 @@
+C:\Users\monul\OneDrive\Desktop\Lab3_UI_V1\Lab3ViewModel\bin\Debug\Lab3ViewModel.dll
+C:\Users\monul\OneDrive\Desktop\Lab3_UI_V1\Lab3ViewModel\bin\Debug\Lab3ViewModel.pdb
+C:\Users\monul\OneDrive\Desktop\Lab3_UI_V1\Lab3ViewModel\obj\Debug\Lab3ViewModel.csprojAssemblyReference.cache
+C:\Users\monul\OneDrive\Desktop\Lab3_UI_V1\Lab3ViewModel\obj\Debug\Lab3ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\monul\OneDrive\Desktop\Lab3_UI_V1\Lab3ViewModel\obj\Debug\Lab3ViewModel.dll
+C:\Users\monul\OneDrive\Desktop\Lab3_UI_V1\Lab3ViewModel\obj\Debug\Lab3ViewModel.pdb
